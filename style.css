@@ -175,6 +175,10 @@ section .description{
     font-weight: 400;
 }
 
+.timetable a{
+    color: black;
+}
+
 .download a{
     font-weight: 600;
     font-size: 1rem;
